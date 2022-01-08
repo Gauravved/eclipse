@@ -1,0 +1,30 @@
+h1{
+	color:white;
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+body{
+	font-family: Comic Sans MS;
+}
+#div1{
+	margin-top: 5px;	
+	background-color: purple;
+}
+a{
+	color:purple;
+	text-decoration: none;
+}
+a:HOVER{
+	color:blue;
+	text-decoration: underline;
+}
+marquee{
+	background-color: purple;
+	color:white;
+}
+p{
+	background-color: linen;
+	color:purple;
+	text-align: center;
+}
